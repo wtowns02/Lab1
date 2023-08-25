@@ -24,7 +24,7 @@ public class StringLab {
 		System.out.println(str6);
 		
 		String str7 = str5.substring(5, 12);
-		
+		System.out.println(str7);
 	}
 
 }
